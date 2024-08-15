@@ -1,3 +1,7 @@
 body {
     color: white; background: red;
 }
+
+header {
+    border: solid 1px darkblue;
+}
